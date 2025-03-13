@@ -1,2 +1,2 @@
 *.idea
-MovingAverage.exe
+*cmake-build-debug
